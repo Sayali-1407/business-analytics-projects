@@ -26,10 +26,11 @@ Academic projects completed as part of MSc Business Analytics at Aston Universit
 - Grade: 77/100
 - Tools Used: Soft Systems Methodology (SSM), CATWOE, SWOT
 - Skills: Stakeholder analysis, strategic problem solving, consulting frameworks  
-- 
+- https://github.com/Sayali-1407/business-analytics-projects/blob/main/Effective%20Management%20Consultancy%20Project.pdf
 
 ## 📊Simulation for Managerial Decision Making
 - Topic: Optimizing supermarket checkout operations
 - Tool Used: Arena Simulation Software
 - *Goal**: Reduce customer wait time and optimize staff utilization
-- Skills: Simulation modeling, scenario testing, statistical validation 
+- Skills: Simulation modeling, scenario testing, statistical validation
+-  
