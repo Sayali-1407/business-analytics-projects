@@ -19,7 +19,7 @@ Academic projects completed as part of MSc Business Analytics at Aston Universit
 - Tools: Python, Excel
 - Skills: Predictive modelling, healthcare analytics, strategic planning
 - Outcome: Developed and evaluated models to forecast hospital admissions and resource utilization
-- 
+- https://github.com/Sayali-1407/business-analytics-projects/blob/main/Dissertation.pdf
 
 ## Effective Management Consultancy (EMC)
 - Topic: Work-Life Balance in Maharashtra’s IT Sector
