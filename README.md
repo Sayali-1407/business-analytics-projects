@@ -11,6 +11,7 @@ Academic projects completed as part of MSc Business Analytics at Aston Universit
   - Correlation and regression analysis
   - Price prediction using multiple linear regression
 - Outcome: Developed a statistically significant model (R² = 57.5%) to estimate used car prices based on mileage and engine size
+- https://github.com/Sayali-1407/business-analytics-projects/commit/21cbaef2cfe00aba679612e614bd215134add52d 
 
 ## MSc Dissertation – Forecasting Healthcare Demand for Emerging Infectious Diseases
 - Duration: June 2024 – September 2024
@@ -18,6 +19,7 @@ Academic projects completed as part of MSc Business Analytics at Aston Universit
 - Tools: Python, Excel
 - Skills: Predictive modelling, healthcare analytics, strategic planning
 - Outcome: Developed and evaluated models to forecast hospital admissions and resource utilization
+- 
 
 ## Effective Management Consultancy (EMC)
 - Topic: Work-Life Balance in Maharashtra’s IT Sector
