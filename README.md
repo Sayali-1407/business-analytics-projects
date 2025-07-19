@@ -33,4 +33,4 @@ Academic projects completed as part of MSc Business Analytics at Aston Universit
 - Tool Used: Arena Simulation Software
 - *Goal**: Reduce customer wait time and optimize staff utilization
 - Skills: Simulation modeling, scenario testing, statistical validation
--  
+-  https://github.com/Sayali-1407/business-analytics-projects/blob/main/Simulation_for_Managerial_Decision_making_report.pdf
